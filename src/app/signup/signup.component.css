@@ -1,0 +1,27 @@
+form {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  form label {
+    font-weight: bold;
+  }
+  
+  form input[type="text"],
+  form input[type="email"],
+  form input[type="password"],
+  form input[type="checkbox"] {
+    margin-bottom: 10px;
+  }
+  
+  form small {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  form button[type="submit"],
+  form button[type="button"] {
+    margin-top: 10px;
+    margin-left: 5px;
+  }
